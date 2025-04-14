@@ -1,2 +1,2 @@
 # Cobol-
-ejercicios cobol 
+ejercicios cobol, agradecimiento a Programacion Facil por su curso Cobol desde cero 
